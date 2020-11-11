@@ -7,6 +7,7 @@ body{
     background-color: white;
     padding: 20px;
     text-align: right;
+    margin:0 0 60px 0;
 }
 
 .nav-link{
@@ -16,3 +17,12 @@ body{
     border-radius: 12px;
 }
 
+form {
+    width: 300px;
+    margin: auto;
+    padding: 30px 25px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
